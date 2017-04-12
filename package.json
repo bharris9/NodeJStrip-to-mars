@@ -1,0 +1,29 @@
+{
+  "name": "trip-to-mars-bharris",
+  "version": "1.0.0",
+  "description": "Say hello to Mars",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "uglify": "gulp compress"
+  },
+  "author": "BHarris",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "hello-mars": "^1.0.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-uglify": "^2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bharris9/NodeJStrip-to-mars.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bharris9/NodeJStrip-to-mars/issues"
+  },
+  "homepage": "https://github.com/bharris9/NodeJStrip-to-mars#readme"
+}
