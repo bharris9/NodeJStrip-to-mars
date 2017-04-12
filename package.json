@@ -1,6 +1,6 @@
 {
   "name": "trip-to-mars-bharris",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Say hello to Mars",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
     "uglify": "gulp compress"
   },
   "author": "BHarris",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "express": "^4.15.2",
     "hello-mars": "^1.0.3"
